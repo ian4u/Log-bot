@@ -1,7 +1,14 @@
 # Log-bot v1.01
-```
+
 A bot that logs all members and all channels (silent)
+
+Requirements:
 ```
+npm install discord.js
+npm install requests
+```
+
+
 Fixed:
 - Json files will work now
 - Cleaner bot.js
